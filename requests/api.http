@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+  "longUrl": "https://www.amazon.com/Caseling-soundlink-Portable-Wireless-Accessories/dp/B00RJBW9AM/ref=pd_di_sccai_3/147-3401711-0370543?_encoding=UTF8&pd_rd_i=B00RJBW9AM&pd_rd_r=28b4b35d-a031-451d-9090-190bfe9764fb&pd_rd_w=E4EdW&pd_rd_wg=XopjK&pf_rd_p=61ce50cf-2379-4458-9044-fa8b402c702d&pf_rd_r=Z4JC4S4SQ2QPNGE62R97&psc=1&refRID=Z4JC4S4SQ2QPNGE62R97"
+}
